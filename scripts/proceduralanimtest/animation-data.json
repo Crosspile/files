@@ -41,7 +41,7 @@
     "headStiff": 0.8,
     "spineSmooth": 0.6
   },
-  {
+  "female_walk_1",{
     "speedFactor": 1,
     "rotSpeed": 1,
     "stepDuration": 0.45,
