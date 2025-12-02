@@ -1,5 +1,5 @@
 {
-  "tired_walk":  {
+  "tired_walk": {
     "speedFactor": 1,
     "rotSpeed": 1,
     "stepDuration": 0.45,
@@ -20,7 +20,7 @@
     "headStiff": 0.8,
     "spineSmooth": 0.6
   },
-  "normal_walk_1":{
+  "normal_walk_1": {
     "speedFactor": 1,
     "rotSpeed": 1,
     "stepDuration": 0.45,
@@ -41,7 +41,7 @@
     "headStiff": 0.8,
     "spineSmooth": 0.6
   },
-  "female_walk_1":{
+  "female_walk_1": {
     "speedFactor": 1,
     "rotSpeed": 1,
     "stepDuration": 0.45,
@@ -62,21 +62,21 @@
     "headStiff": 0.8,
     "spineSmooth": 0.6,
     "jointOffsets": {
-        "abs": {
-            "x": -0.02,
-            "y": 0,
-            "z": 0
-        },
-        "arm_upper": {
-            "x": 0.08,
-            "y": 1.07,
-            "z": -0.12
-        },
-        "leg_upper": {
-            "x": -0.02,
-            "y": -0.02,
-            "z": -0.07
-        }
+      "abs": {
+        "x": -0.02,
+        "y": 0,
+        "z": 0
+      },
+      "arm_upper": {
+        "x": 0.08,
+        "y": 1.07,
+        "z": -0.12
+      },
+      "leg_upper": {
+        "x": -0.02,
+        "y": -0.02,
+        "z": -0.07
+      }
     }
-}
+  }
 }
