@@ -40,5 +40,43 @@
     "neckCorrection": 0,
     "headStiff": 0.8,
     "spineSmooth": 0.6
-  }
+  },
+  {
+    "speedFactor": 1,
+    "rotSpeed": 1,
+    "stepDuration": 0.45,
+    "stepHeight": 0.3,
+    "stanceHeight": 1.666,
+    "forwardLean": 0,
+    "armAmp": 1.599,
+    "armRestAngle": 0,
+    "hipTilt": 0.129,
+    "hipYaw": 0.142,
+    "chestYaw": 1.2,
+    "armOutwardRoll": 0.2,
+    "elbowBend": -0.1,
+    "spineCounterFactor": 1.6,
+    "absTiltWeight": 0.4,
+    "chestTiltWeight": 0.6,
+    "neckCorrection": 0,
+    "headStiff": 0.8,
+    "spineSmooth": 0.6,
+    "jointOffsets": {
+        "abs": {
+            "x": -0.02,
+            "y": 0,
+            "z": 0
+        },
+        "arm_upper": {
+            "x": 0.08,
+            "y": 1.07,
+            "z": -0.12
+        },
+        "leg_upper": {
+            "x": -0.02,
+            "y": -0.02,
+            "z": -0.07
+        }
+    }
+}
 }
